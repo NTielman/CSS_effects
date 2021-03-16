@@ -21,7 +21,9 @@
 * Social Media  
 ![alt text](https://media.giphy.com/media/Ehtp5tkRMK6jUFXnQQ/giphy.gif "Social links Preview gif")
 * Testimonial  
+![alt text](https://github.com/NTielman/CSS_effects/blob/master/preview_images/testimonial_preview.png "Testimonial Preview image")
 * Portfolio Grid   
+![alt text](https://media.giphy.com/media/zTSUKWFFyuOxU6Nb4U/giphy.gif "Portfolio Preview gif")
 
 
 ## Usage & Details 
